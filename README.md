@@ -7,8 +7,8 @@
 **_A place where you can sell/buy anything you want!_**
 
 <p align="center">
-  <a href="#Contributors">Contributors</a> •
-  <a href="#Introduction">Introduction</a>
+  <a href="#contributors">Contributors</a> •
+  <a href="#introduction">Introduction</a>
 </p>
 
 
