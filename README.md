@@ -46,72 +46,109 @@ After the server is up, put the IP & Port of the sever in CreateSocket.java and 
 <details>
 <summary>Accounts</summary>
   
-    You can either enter with your personal account or enter as a guest to view the ads
+***
+  
+**You can either enter with your personal account or enter as a guest to view the ads**
 
   <p align="center">
    <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/a32a8a7e-3f2b-46f2-8138-38e4769f1b8e" width="600" height = "500">
   </p>
 
 
-    The city name you enter must be valid(One of cities of Iran)
+  **The city name you enter must be valid(One of cities of Iran)**
 
-    Also, the strength of your password will be checked simultaneously as you enter it.
+  **Also, the strength of your password will be checked simultaneously as you enter it**
+  
+***
+  
 </details>
 
 <details>
 <summary>Captcha System</summary>
+
+***
   
-    A simple captcha is required for entering the app
+**A simple captcha is required for entering the app**
 
 <p align="center">
   <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/6033afc9-46df-4e69-8305-df577a15ba3b" width="500" height = "400">
 </p>
+
+***
+
 </details>
 
 <details>
 <summary>Email Verification</summary>
-  
-    Your email will be validated with an OTP
+
+***
+
+**Your email will be validated with an OTP**
 
 <p align="center">
     <img width="49%" src="https://github.com/Farbodkhm/SilkRoad/assets/68291080/586e1316-c3b3-4b84-a054-88a13eede843"/>
 &nbsp;
     <img width="49%" height="400" src="https://github.com/Farbodkhm/SilkRoad/assets/68291080/f37907f1-af65-4892-80ee-bf4a667003a4"/>
 </p>
+
+***
+
 </details>
 
 <details>
 <summary>Password Recovery</summary>
+
+***
   
-    In case of forgetting your password, you can recover it easily!
+**In case of forgetting your password, you can recover it easily!**
 
 <p align="center">
   <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/aeef3466-296e-4052-b7a8-4213c9b4fca6" width="500" height = "400">
 </p>
+
+***
+
 </details>
 
 <details>
 <summary>Chat & Notification System</summary>
+
+***
   
-    You can send direct messages to the owners of the advertisements and communitace with them. Also, notification of your unread messages will pop up as soon as you login to your account
+**You can send direct messages to the owners of the advertisements and communitace with them. Also, notification of your unread messages will pop up as soon as you login to your account**
+
+***
+
 </details>
 
 <details>
 <summary>Switch between themes(Dark & Light)</summary>
+
+***
   
-    In any page you are, you can switch to the another theme
+**In any page you are, you can switch to the another theme**
+
+***
+
 </details>
 
 <details>
 <summary>Security</summary>
+
+***
   
-    All communications between client & server will be ecrypted using AED encryption. Also, all passwords will be hashed and then will be stored in database
+**All communications between client & server will be ecrypted using `AES` encryption. Also, all passwords will be hashed and then will be stored in database**
+
+***
+
 </details>
 
 <details>
 <summary>Multi-thread Programming</summary>
+
+***
   
-    In order to handle all users cuncurrently, multi-thread concepts are used and they are syncronized appropriately to avoid any multi-threading problems
+**In order to handle all users cuncurrently, multi-thread concepts are used and they are syncronized appropriately to avoid any multi-threading problems**
 </details>
 
 
