@@ -9,8 +9,8 @@
 <p align="center">
   <a href="#contributors">Contributors</a> •
   <a href="#introduction">Introduction</a> •
-  <a href="#how-to-use">Introduction</a> •
-  <a href="#key-features">Introduction</a>
+  <a href="#how-to-use">How to Use</a> •
+  <a href="#key-features">Key Features</a>
 </p>
 
 
@@ -46,7 +46,7 @@ After the server is up, put the IP & Port of the sever in CreateSocket.java and 
 <details>
 <summary>Accounts</summary>
   
-You can either enter with your personal account or enter as a guest to view the ads
+  >You can either enter with your personal account or enter as a guest to view the ads
 
 <p align="center">
   <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/a32a8a7e-3f2b-46f2-8138-38e4769f1b8e" width="600" height = "500">
