@@ -52,7 +52,7 @@ After the server is up, put the IP & Port of the sever in CreateSocket.java and 
 **You can either enter with your personal account or enter as a guest to view the ads**
 
   <p align="center">
-   <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/a32a8a7e-3f2b-46f2-8138-38e4769f1b8e" width="600" height = "500">
+   <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/60b7985b-1c62-4bbb-8ad2-65fdfebf8cf1" width="600" height = "500">
   </p>
 
 
@@ -72,7 +72,7 @@ After the server is up, put the IP & Port of the sever in CreateSocket.java and 
 **A simple captcha is required for entering the app**
 
 <p align="center">
-  <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/6033afc9-46df-4e69-8305-df577a15ba3b" width="500" height = "400">
+  <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/7a498b41-dd35-4730-9436-737713904747" width="500" height = "400">
 </p>
 
 ***
@@ -87,9 +87,9 @@ After the server is up, put the IP & Port of the sever in CreateSocket.java and 
 **Your email will be validated with an OTP**
 
 <p align="center">
-    <img width="49%" src="https://github.com/Farbodkhm/SilkRoad/assets/68291080/586e1316-c3b3-4b84-a054-88a13eede843"/>
+    <img width="49%" src="https://github.com/Farbodkhm/SilkRoad/assets/68291080/07afc574-70c1-49c7-af81-84505ab0ff3c"/>
 &nbsp;
-    <img width="49%" height="400" src="https://github.com/Farbodkhm/SilkRoad/assets/68291080/f37907f1-af65-4892-80ee-bf4a667003a4"/>
+    <img width="49%" height="400" src="https://github.com/Farbodkhm/SilkRoad/assets/68291080/16c876a7-1f3d-4123-81f8-a240c84eb1b4"/>
 </p>
 
 ***
@@ -104,7 +104,7 @@ After the server is up, put the IP & Port of the sever in CreateSocket.java and 
 **In case of forgetting your password, you can recover it easily!**
 
 <p align="center">
-  <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/aeef3466-296e-4052-b7a8-4213c9b4fca6" width="500" height = "400">
+  <img src = "https://github.com/Farbodkhm/SilkRoad/assets/68291080/e716ec70-b7e7-4bf0-99ab-564e30e3fdb8" width="500" height = "400">
 </p>
 
 ***
